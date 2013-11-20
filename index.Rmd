@@ -52,7 +52,7 @@ mode        : selfcontained # {standalone, draft}
 ## What influences these inequalities?
 
 
-<iframe width="840" height="630" src="http://bl.ocks.org/walkerke/raw/6807845/" frameborder="0" allowfullscreen></iframe>
+<iframe width="840" height="630" src="http://bl.ocks.org/walkerke/raw/6921200/" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -69,12 +69,19 @@ mode        : selfcontained # {standalone, draft}
   3. Largely white zip codes in rural Texas;
   4. Majority-Hispanic communities, located both in and around major cities and in the Rio Grande Valley
 
+
 ---
 
 ## Cluster characteristics
 
-<iframe width="840" height="630" src="http://bl.ocks.org/walkerke/raw/6810386/" frameborder="0" allowfullscreen></iframe>
+<iframe width="840" height="630" src="http://bl.ocks.org/walkerke/raw/6920992/" frameborder="0" allowfullscreen></iframe>
 
+
+---
+
+## High-risk zip codes, Dallas-Fort Worth area
+
+<iframe width="800" height="600" src="http://personal.tcu.edu/kylewalker/js/dfwclusters.html" frameborder="0" allowfullscreen></iframe>
 
 ---
 
